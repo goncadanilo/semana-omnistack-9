@@ -49,6 +49,7 @@ O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desen
 
 ## 🤔 Como contribuir
 
+- Adicione uma :star: estrela nesse projeto :smile:;
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
