@@ -30,7 +30,10 @@
 
 <p align="center">
   <img alt="Frontend" src=".github/aircnc.png" width="100%">
+  <a href="https://www.linkedin.com/posts/goncadanilo_semanaomnistack-rocketseat-nodejs-activity-6586365074598830080-NXQx
+">:movie_camera: Ver o aplicativo em execução</a>
 </p>
+
 
 ## :rocket: Tecnologias
 
