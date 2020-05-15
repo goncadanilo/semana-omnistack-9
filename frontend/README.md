@@ -1,20 +1,11 @@
 # Semana OmniStack 9 - Rocketseat
 Frontend da aplicação desenvolvida durante a Semana OminiStack 9 da Rocketseat usando ReactJS.
 
-Descrição
------
-
-A proposta desse projeto foi criar uma "versão" do Airbnb para desenvolvedores chamada de Aircnc, onde os devs podem reservar spots(locais de trabalho) em empresas. Tudo isso usando o NodeJS no backend, ReactJS no frontend e React Native no mobile.
-
 Instalação
 -----
 
 * **Pre-requisitos:** Antes de todo, para rodar esse projeto é necessario que você já tenha o [node js](https://nodejs.org/en/), e o [yarn](https://yarnpkg.com/pt-BR/) instalados. Também é preciso que esteja configurado e rodando a [API](https://github.com/goncadanilo/omnistack-9-backend) desse projeto.
 
-* **Clone:** Para clonar o repositório use o seguinte comando.
-```
-git clone https://github.com/goncadanilo/omnistack-9-backend.git
-```
 
 * **Dependências:** Para instalar as dependências, entre na pasta do projeto e use o seguinte comando.
 ```
