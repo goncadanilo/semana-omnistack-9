@@ -60,4 +60,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by [Danilo Gonçalves](https://github.com/goncadanilo) :wave:
+Feito com ♥ by [Danilo Gonçalves](https://github.com/goncadanilo) :wave: Me adicione no [LinkedIn](https://www.linkedin.com/in/goncadanilo/)
