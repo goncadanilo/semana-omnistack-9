@@ -10,11 +10,11 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/goncadanilo/semana-omnistack-9.svg">
   
-  <a href="https://github.com/Rocketseat/semana-omnistack-9/commits/master">
+  <a href="https://github.com/goncadanilo/semana-omnistack-9/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/goncadanilo/semana-omnistack-9.svg">
   </a>
 
-  <a href="https://github.com/Rocketseat/semana-omnistack-9/issues">
+  <a href="https://github.com/goncadanilo/semana-omnistack-9/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/goncadanilo/semana-omnistack-9.svg">
   </a>
 
